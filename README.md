@@ -1,7 +1,8 @@
 
 ## TinDog website
 
-Deployed Version - 
+Deployed on Github - 
+
 https://sonamm24.github.io/TinDogWebsite/
 
 ## screenshots
